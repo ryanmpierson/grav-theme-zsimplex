@@ -1,0 +1,17 @@
+name: zSimplex
+version: 2.0.0
+description: "zSimplex is a free responsive Html5 Theme can be used to start a website for Management and Project."
+icon: paint-brush
+author:
+  name: NunoPress
+  email: hello@nunopress.com
+  url: http://nunopress.com
+homepage: https://github.com/nunopress/grav-theme-zsimplex
+demo: http://grav-demo.nunopress.com
+keywords: "theme, onepage, responsive, html5, css3, jquery, simple_form, gmaps"
+bugs: https://github.com/nunopress/grav-theme-zsimplex/issues
+license: MIT
+
+form:
+  validation: strict
+  fields:
